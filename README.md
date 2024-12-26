@@ -17,4 +17,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Acknowledgments
 Special thanks to all contributors and users. Inspired by the need for efficient URL and profile management.
 Contact
-If you encounter issues or have feature requests, feel free to open an issue in the repository or reach out at your-email@example.com.
+If you encounter issues or have feature requests, feel free to open an issue in the repository or reach out at zargaryasir@gmail.com
