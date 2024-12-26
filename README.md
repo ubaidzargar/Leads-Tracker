@@ -22,10 +22,13 @@ Leads Tracker is a lightweight Chrome extension used to save important URLs, Lin
 5. The Leads Tracker extension will now be available in your browser.
 
 ---
-# Usage
-Click on the Leads Tracker icon in the Chrome toolbar. 
-Add URLs or LinkedIn profiles using the input field. 
-Access saved links directly from the extension popup.
+## Usage
+
+1. Click on the Leads Tracker icon in the Chrome toolbar.
+2. Add URLs or LinkedIn profiles using the input field.
+3. Access saved links directly from the extension popup.
+
+---
 
 
 # Contributing
@@ -53,7 +56,8 @@ Contributions are welcome! Please follow these steps:
 
 
 ## Acknowledgments
-Special thanks to all contributors and users. Inspired by the need for efficient URL and profile management.
+--Special thanks to all contributors and users. 
+--Inspired by the need for efficient URL and profile management.
 
 ## Contact
-If you encounter issues or have feature requests, feel free to open an issue in the repository or reach out at zargaryasir@gmail.com
+--If you encounter issues or have feature requests, feel free to open an issue in the repository or reach out at zargaryasir@gmail.com
